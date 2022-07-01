@@ -2224,7 +2224,7 @@ if text == ("رفع منشئ اساسي") and tonumber(msg.reply_to_message_id_)
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 function Function_Tshake(extra, result, success)
@@ -2238,7 +2238,7 @@ if text and text:match("^رفع منشئ اساسي @(.*)$") and DevBot(msg) the
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local username = text:match("^رفع منشئ اساسي @(.*)$")
@@ -2261,7 +2261,7 @@ if text and text:match("^رفع منشئ اساسي (%d+)$") and DevBot(msg) the
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local userid = text:match("^رفع منشئ اساسي (%d+)$") 
@@ -2273,7 +2273,7 @@ if text == ("تنزيل منشئ اساسي") and tonumber(msg.reply_to_message_
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 function Function_Tshake(extra, result, success)
@@ -2287,7 +2287,7 @@ if text and text:match("^تنزيل منشئ اساسي @(.*)$") and DevBot(msg)
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local username = text:match("^تنزيل منشئ اساسي @(.*)$")
@@ -2307,7 +2307,7 @@ if text and text:match("^تنزيل منشئ اساسي (%d+)$") and DevBot(msg)
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local userid = text:match("^تنزيل منشئ اساسي (%d+)$") 
@@ -2320,7 +2320,7 @@ if text == "رفع منشئ" and tonumber(msg.reply_to_message_id_) ~= 0 and Bas
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 function Function_Tshake(extra, result, success)
@@ -2333,7 +2333,7 @@ if text and text:match("^رفع منشئ @(.*)$") and BasicConstructor(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local username = text:match("^رفع منشئ @(.*)$")
@@ -2356,7 +2356,7 @@ if text and text:match("^رفع منشئ (%d+)$") and BasicConstructor(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local userid = text:match("^رفع منشئ (%d+)$")
@@ -2375,7 +2375,7 @@ if text and text:match("^تنزيل منشئ @(.*)$") and BasicConstructor(msg) 
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local username = text:match("^تنزيل منشئ @(.*)$")
@@ -2394,7 +2394,7 @@ if text and text:match("^تنزيل منشئ (%d+)$") and BasicConstructor(msg) 
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local userid = text:match("^تنزيل منشئ (%d+)$")
@@ -2406,7 +2406,7 @@ if text == ("رفع مدير") and tonumber(msg.reply_to_message_id_) ~= 0 and C
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 function Function_Tshake(extra, result, success)
@@ -2420,7 +2420,7 @@ if text and text:match("^رفع مدير @(.*)$") and Constructor(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local username = text:match("^رفع مدير @(.*)$") 
@@ -2444,7 +2444,7 @@ if text and text:match("^رفع مدير (%d+)$") and Constructor(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local userid = text:match("^رفع مدير (%d+)$") 
@@ -2456,7 +2456,7 @@ if text == ("تنزيل مدير") and tonumber(msg.reply_to_message_id_) ~= 0 a
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 function Function_Tshake(extra, result, success)
@@ -2470,7 +2470,7 @@ if text and text:match("^تنزيل مدير @(.*)$") and Constructor(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local username = text:match("^تنزيل مدير @(.*)$")
@@ -2489,7 +2489,7 @@ if text and text:match("^تنزيل مدير (%d+)$") and Constructor(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local userid = text:match("^تنزيل مدير (%d+)$") 
@@ -2502,7 +2502,7 @@ if text == ("رفع ادمن") and tonumber(msg.reply_to_message_id_) ~= 0 and O
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 if not Constructor(msg) and database:get(bot_id.."Add:Group:Cheking"..msg.chat_id_) then 
@@ -2520,7 +2520,7 @@ if text and text:match("^رفع ادمن @(.*)$") and Owner(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local username = text:match("^رفع ادمن @(.*)$")
@@ -2547,7 +2547,7 @@ if text and text:match("^رفع ادمن (%d+)$") and Owner(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local userid = text:match("^رفع ادمن (%d+)$")
@@ -2563,7 +2563,7 @@ if text == ("تنزيل ادمن") and tonumber(msg.reply_to_message_id_) ~= 0 a
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 function Function_Tshake(extra, result, success)
@@ -2577,7 +2577,7 @@ if text and text:match("^تنزيل ادمن @(.*)$") and Owner(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local username = text:match("^تنزيل ادمن @(.*)$") 
@@ -2596,7 +2596,7 @@ if text and text:match("^تنزيل ادمن (%d+)$") and Owner(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local userid = text:match("^تنزيل ادمن (%d+)$")
@@ -2609,7 +2609,7 @@ if text == ("رفع مميز") and tonumber(msg.reply_to_message_id_) ~= 0 and A
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 if not Constructor(msg) and database:get(bot_id.."Add:Group:Cheking"..msg.chat_id_) then 
@@ -2627,7 +2627,7 @@ if text and text:match("^رفع مميز @(.*)$") and Addictive(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local username = text:match("^رفع مميز @(.*)$") 
@@ -2655,7 +2655,7 @@ if text and text:match("^رفع مميز (%d+)$") and Addictive(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local userid = text:match("^رفع مميز (%d+)$")
@@ -2672,7 +2672,7 @@ if (text == ("تنزيل مميز")) and tonumber(msg.reply_to_message_id_) ~= 0
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 function Function_Tshake(extra, result, success)
@@ -2686,7 +2686,7 @@ if text and text:match("^تنزيل مميز @(.*)$") and Addictive(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local username = text:match("^تنزيل مميز @(.*)$") 
@@ -2705,7 +2705,7 @@ if text and text:match("^تنزيل مميز (%d+)$") and Addictive(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 local userid = text:match("^تنزيل مميز (%d+)$") 
@@ -2717,7 +2717,7 @@ if text and text:match("رفع (.*)") and tonumber(msg.reply_to_message_id_) > 0
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end 
 local RTPA = text:match("رفع (.*)")
@@ -2749,7 +2749,7 @@ if text and text:match("تنزيل (.*)") and tonumber(msg.reply_to_message_id_)
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end 
 local RTPA = text:match("تنزيل (.*)")
@@ -2781,7 +2781,7 @@ if text and text:match("^رفع (.*) @(.*)") and Addictive(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end 
 local text1 = {string.match(text, "^(رفع) (.*) @(.*)$")}
@@ -2816,7 +2816,7 @@ if text and text:match("^تنزيل (.*) @(.*)") and Addictive(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end 
 local text1 = {string.match(text, "^(تنزيل) (.*) @(.*)$")}
@@ -4500,8 +4500,8 @@ database:set(bot_id.."Tshake:Left:Bot"..msg.chat_id_,true)
 send(msg.chat_id_, msg.id_, "📫┇تم تعطيل مغادرة البوت") 
 return false 
 end
-if text == (database:get(bot_id.."Tshake:Name:Bot") or "تشاكي") then
-Namebot = (database:get(bot_id.."Tshake:Name:Bot") or "تشاكي")
+if text == (database:get(bot_id.."Tshake:Name:Bot") or "بغداد") then
+Namebot = (database:get(bot_id.."Tshake:Name:Bot") or "بغداد")
 local namebot = {
 "عمري فداك "..Namebot.. " كول حب ",
 "كول حبيبي ؟ اني "..Namebot,
@@ -4520,7 +4520,7 @@ return false
 end
 
 if text == "بوت" then
-Namebot = (database:get(bot_id.."Tshake:Name:Bot") or "تشاكي")
+Namebot = (database:get(bot_id.."Tshake:Name:Bot") or "بغداد")
 send(msg.chat_id_, msg.id_,"اسمي القميل ["..Namebot.."] ") 
 end
 if text == "تغير اسم البوت" or text == "تغيير اسم البوت" then 
@@ -5845,7 +5845,7 @@ if res == 200 then
 local Get_info, res = pcall(JSON.decode,Get_Files);
 vardump(res.plugins_)
 if Get_info then
-local TextS = "\n📂┇اهلا بك في متجر ملفات تشاكي \n📮┇الملفات الموجوده حاليا \nꔹ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ꔹ\n\n"
+local TextS = "\n📂┇اهلا بك في متجر ملفات بغداد الاصلي \n📮┇الملفات الموجوده حاليا \nꔹ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ꔹ\n\n"
 local TextE = "\nꔹ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ꔹ\n📌┇تدل علامة (✔) الملف مفعل\n".."📌┇تدل علامة (✖) الملف معطل\n"
 local NumFile = 0
 for name,Info in pairs(res.plugins_) do
@@ -5985,20 +5985,20 @@ send(msg.chat_id_, msg.id_, "☑┇تم التحديث")
 end
 if text == 'السورس' or text == 'سورس' or text == 'ياسورس' or text == 'يا سورس' then
 Text = [[
-🔰 Welcome to Source 🔰
+حياكم سورس بغداد ، √ 
+					
 
-🌐┇TshAkE TEAM 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📊┇ [Source Channel](https://t.me/ZX_XX)
 
-📋┇ [TshAkE Dev](https://t.me/TSHAKETEAM)
+@SourceBaghdad √
 
-📁┇ [Source  Files](https://t.me/Tshake_sudo)
 
-🌐┇ [TshAkE iNDT](https://t.me/ZX_XX/4611)
- 
- ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
-📧┇ [TWS TshAkE](https://t.me/A_5bot)
+
+
+
+
+
+
 ]]
 send(msg.chat_id_, msg.id_,Text)
 end
@@ -6012,7 +6012,7 @@ Text = [[
 🎖┇م4 ~⪼ لعرض اوامر المنشئين
 👤┇م5 ~⪼ لعرض اوامر المطورين
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📡┇CH @TSHAKETEAM
+📡┇CH @SourceBaghdad
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -6050,7 +6050,7 @@ Text = [[
 🔐┇الكلايش
 🔐┇السيلفي
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📡┇Ch ~⪼ @TSHAKETEAM
+📡┇Ch ~⪼ @SourceBaghdad
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -6116,7 +6116,7 @@ Text = [[
 📮┇الصلاحيات
 📮┇الرابط
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📡┇CH @TSHAKETEAM
+📡┇CH @SourceBaghdad
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -6160,7 +6160,7 @@ Text = [[
 تغير رد المميز + النص
 تغير رد العضو + النص
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📡┇CH @TSHAKETEAM
+📡┇CH @SourceBaghdad
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -6185,7 +6185,7 @@ Text = [[
 ➕┇اضف رسائل + العدد بالرد
 ➕┇اضف مجوهرات + العدد بالرد
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📡┇CH @TSHAKETEAM
+📡┇CH @SourceBaghdad
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -6231,7 +6231,7 @@ Text = [[
 ➕┇اذاعه بالتثبيت 
 ➕┇الاحصائيات 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-📡┇CH @TSHAKETEAM
+📡┇CH @SourceBaghdad
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -6244,7 +6244,7 @@ if text == 'تفعيل' and DevBot(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 if msg.can_be_deleted_ == false then 
@@ -6297,7 +6297,7 @@ if text == 'تعطيل' and DevBot(msg) then
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 tdcli_function ({ID = "GetUser",user_id_ = msg.sender_user_id_},function(extra,result,success)
@@ -6341,7 +6341,7 @@ if text == 'تفعيل' and not DevBot(msg) and not database:get(bot_id..'Tshake
 local url,res = http.request('http://tshake.ml/joinch/?id='..msg.sender_user_id_)
 data = JSON.decode(url)
 if data.Ch_Member.TshAkE ~= true then
-send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@zx_xx] ⚜️')   
+send(msg.chat_id_,msg.id_,'• اهلا بك عزيزي 🔱 •\n• لايمكنك استخدام البوت ✅ •\n• عليك الاشتراك في القناة 🔽 •\n• [@SourceBaghdad] ⚜️')   
 return false 
 end
 if msg.can_be_deleted_ == false then 
